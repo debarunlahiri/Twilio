@@ -34,7 +34,8 @@ public class TwilioApplication {
         String twilioApiSecret = "zcTLBpdqA0QoY55XvNWHWHKLd5MSTyV9";
 
         // Required for Voice
-        String outgoingApplicationSid = System.getenv("VAacf68c0dc30020d18a371b63a65b4472");
+//        String outgoingApplicationSid = "VAacf68c0dc30020d18a371b63a65b4472";
+        String outgoingApplicationSid = "AP749f7aacef1b2dfd028536c2b14301a0";
         String identity = "dialandgetservice@gmail.com";
 
         // Create Voice grant
